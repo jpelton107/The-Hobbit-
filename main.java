@@ -4,7 +4,7 @@ class Hobbit {
 		JFrame 	myWindow;
 		myWindow = new JFrame();
 		myWindow.setSize(300,200);
-		myWindow.setTitle("There and Back Again");
+		myWindow.setTitle("There and Back Again.");
 		myWindow.setVisible(true);
 	}
 }
